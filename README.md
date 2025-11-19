@@ -11,8 +11,7 @@ Spending Score
 
 The goal is to provide actionable insights that can help companies improve marketing strategies, personalized targeting, and customer retention.
 
-🚀 Why This Project Matters (Client-Oriented)
-
+🚀 Why This Project Matters 
 Businesses often spend money inefficiently because all customers are treated the same.
 This model solves that problem by:
 
